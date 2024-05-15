@@ -1,1 +1,1 @@
-simply run draft.html file
+Make another page
